@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "The whole new world - Short Version - PHANTASY STAR ONLINE 2 OPENING THEME",
+  "base_artist": "SEGA",
+  "createdAt": "2026-03-25T11:36:24.308165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Phantasy Star Online OPENING THEME ～The whole new world～ (Lyric Version)",
+      "artist": "SEGA",
+      "has_synced": false,
+      "path": "select/01_Phantasy_Star_Online_OPENING_THEME_~The_whole_new_world~_(Lyric_Version)_SEGA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loren - Phantasy Star Online OPENING THEME ～The whole new world～ (Lyric Version)",
+      "artist": "SEGA",
+      "has_synced": false,
+      "path": "select/02_Loren_-_Phantasy_Star_Online_OPENING_THEME_~The_whole_new_world~_(Lyric_Version)_SEGA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Phantasy Star Online OPENING THEME ～The whole new world～ (Lala Version)",
+      "artist": "SEGA",
+      "has_synced": false,
+      "path": "select/03_Phantasy_Star_Online_OPENING_THEME_~The_whole_new_world~_(Lala_Version)_SEGA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Phantasy Star Online (The whole new world -Lyric Version-/LOREN) | DC",
+      "artist": "LOREN",
+      "has_synced": false,
+      "path": "select/04_Phantasy_Star_Online_(The_whole_new_world_-Lyric_Version-_LOREN)___DC_LOREN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Phantasy Star Online (The whole new world -Lyric Version-/LOREN) | DC",
+      "artist": "SEGA",
+      "has_synced": false,
+      "path": "select/05_Phantasy_Star_Online_(The_whole_new_world_-Lyric_Version-_LOREN)___DC_SEGA.txt"
+    }
+  ]
+}
